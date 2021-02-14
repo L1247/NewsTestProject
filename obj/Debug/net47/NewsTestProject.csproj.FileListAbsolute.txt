@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\NewsTestProject\NewsTestProject\bin\Debug\net47\NUnit3.TestAdapter.dll
+C:\Users\User\RiderProjects\NewsTestProject\NewsTestProject\bin\Debug\net47\NUnit3.TestAdapter.pdb
+C:\Users\User\RiderProjects\NewsTestProject\NewsTestProject\bin\Debug\net47\nunit.engine.dll
+C:\Users\User\RiderProjects\NewsTestProject\NewsTestProject\bin\Debug\net47\nunit.engine.api.dll
+C:\Users\User\RiderProjects\NewsTestProject\NewsTestProject\bin\Debug\net47\NewsTestProject.dll
+C:\Users\User\RiderProjects\NewsTestProject\NewsTestProject\bin\Debug\net47\NewsTestProject.pdb
+C:\Users\User\RiderProjects\NewsTestProject\NewsTestProject\bin\Debug\net47\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\User\RiderProjects\NewsTestProject\NewsTestProject\bin\Debug\net47\nunit.framework.dll
+C:\Users\User\RiderProjects\NewsTestProject\NewsTestProject\obj\Debug\net47\NewsTestProject.csprojAssemblyReference.cache
+C:\Users\User\RiderProjects\NewsTestProject\NewsTestProject\obj\Debug\net47\NewsTestProject.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\NewsTestProject\NewsTestProject\obj\Debug\net47\NewsTestProject.AssemblyInfo.cs
+C:\Users\User\RiderProjects\NewsTestProject\NewsTestProject\obj\Debug\net47\NewsTestProject.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\NewsTestProject\NewsTestProject\obj\Debug\net47\NewsTestProject.csproj.CopyComplete
+C:\Users\User\RiderProjects\NewsTestProject\NewsTestProject\obj\Debug\net47\NewsTestProject.dll
+C:\Users\User\RiderProjects\NewsTestProject\NewsTestProject\obj\Debug\net47\NewsTestProject.pdb
