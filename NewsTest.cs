@@ -33,7 +33,7 @@ namespace NewsTestProject
         }
 
         [Test]
-        public void Should_Return_Short_Content_When_Length_Is_Big()
+        public void Should_Return_Short_Content_When_Length_Is_Big_Than_Content_Length()
         {
             ShouldResponseShortContent(_shortContent , _shortContent , 100);
         }
@@ -57,7 +57,7 @@ namespace NewsTestProject
         [Test]
         public void Should_Return_Argument_Exception_When_Length_Is_Zero()
         {
-            var argumentException = Assert.Throws<ArgumentException>(() => GetShortContent(_shortContent , 0) , "長度為1");
+            var argumentException = Assert.Throws<ArgumentException>(() => GetShortContent(_shortContent , 0));
             ShouldResponseExceptionMessage(argumentException , "長度為0");
         }
 
